@@ -1,0 +1,22 @@
+{
+  "fields": [
+    {
+      "name": "video_id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "predicted_label",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "asd_probability",
+      "type": "number",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}

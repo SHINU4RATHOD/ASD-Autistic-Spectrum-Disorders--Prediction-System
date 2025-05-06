@@ -1,0 +1,14 @@
+data:
+  raw_dir: data/raw
+  processed_dir: data/processed
+  test_dir: data/test
+output:
+  dir: outputs
+  visualization_dir: outputs/visualizations
+  json_dir: outputs/json
+model:
+  dir: models
+preprocessing:
+  min_detection_confidence: 0.2
+  min_tracking_confidence: 0.2
+  model_complexity: 2

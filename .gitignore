@@ -1,0 +1,16 @@
+# Exclude large archive files
+*.rar
+*.zip
+
+# Exclude raw video data
+ASD_Prediction/data/raw/
+
+# Exclude node_modules and cache
+ASD_Prediction/frontend/node_modules/
+ASD_Prediction/frontend/node_modules/.cache/
+
+# Exclude build outputs
+ASD_Prediction/frontend/build/
+
+# Exclude Python build artifacts
+ASD_Prediction/ASD_Prediction.egg-info/

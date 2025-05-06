@@ -1,0 +1,31 @@
+{
+  "columns": [
+    {
+      "field": "video_id",
+      "title": "video_id",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 144
+    },
+    {
+      "field": "predicted_label",
+      "title": "predicted_label",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 150
+    },
+    {
+      "field": "asd_probability",
+      "title": "asd_probability",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 640
+    }
+  ]
+}

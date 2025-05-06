@@ -1,0 +1,24 @@
+Metadata-Version: 2.2
+Name: ASD_Prediction
+Version: 0.1.0
+Summary: A machine learning system for predicting Autism Spectrum Disorder behaviors from video and webcam input using MediaPipe
+Author: SHINU4RATHOD
+Author-email: shinukrathod0143@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Requires-Dist: mediapipe==0.10.21
+Requires-Dist: numpy==1.26.4
+Requires-Dist: opencv-contrib-python==4.10.0.84
+Requires-Dist: pandas>=1.5.0
+Requires-Dist: scikit-learn>=1.2.0
+Requires-Dist: xgboost>=1.7.0
+Requires-Dist: scipy>=1.9.0
+Requires-Dist: tqdm>=4.65.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
