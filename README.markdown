@@ -8,7 +8,7 @@ A machine learning system to predict Autism Spectrum Disorder (ASD) behaviors in
 
 The ASD Prediction System aims to assist in the early diagnosis of Autism Spectrum Disorder by analyzing video footage of children. It extracts pose landmarks using MediaPipe, derives behavioral features, and uses a machine learning model to predict ASD likelihood. The system supports both pre-recorded video uploads and real-time webcam analysis, with additional features like a chatbot (powered by Gemini API) and an AI analyzer for detailed behavioral insights.
 
-- **Model Accuracy**: 72.8% (custom ML model, TensorFlow Lite).
+- **Model Accuracy**: 91.8% (custom ML model, TensorFlow Lite).
 - **Deployment**: Dockerized Flask backend and React frontend.
 - **Target Audience**: Researchers, clinicians, and developers working on ASD diagnosis tools.
 
