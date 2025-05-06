@@ -1,4 +1,5 @@
 # ASD Prediction System
+![Project Screenshot](![image](https://github.com/user-attachments/assets/2d10ffa2-393e-4741-88e0-335b509b3cf3))
 
 A machine learning system to predict Autism Spectrum Disorder (ASD) behaviors in children using video and webcam input. The system leverages MediaPipe for pose estimation to extract behavioral features (e.g., arm flapping, head banging) and a custom ML model for binary classification (ASD vs. non-ASD). It includes a React frontend, Flask backend, and Dockerized deployment for scalability.
 
