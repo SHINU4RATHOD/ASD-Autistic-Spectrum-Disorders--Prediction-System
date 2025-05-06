@@ -76,7 +76,7 @@ The project supports multiple workflows for preprocessing, training, testing, an
 Navigate to the project root and use the `main.py` script to execute different modes:
 ```bash
 cd ASD_Prediction
-python src/main.py --mode [preprocess|train|test|all]
+python main.py --mode [preprocess|train|test|all]
 ```
 
 - **`preprocess`**: Processes videos using MediaPipe, extracts 35 features (e.g., `arm_flap`, `wrist_nose_distance`), and saves them to `data/processed/`.
