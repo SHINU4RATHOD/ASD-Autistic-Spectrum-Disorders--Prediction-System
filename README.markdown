@@ -240,4 +240,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 **Developed by SHINU RATHOD**  
-For questions or support, contact [shinukrathod0143@example.com](mailto:shinukrathod0143@example.com).
+For questions or support, contact [shinukrathod0143@gmail.com](mailto:shinukrathod0143@gmail.com).
