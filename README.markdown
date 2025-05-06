@@ -30,7 +30,7 @@ Follow these steps to set up the project on your local machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/SHINU4RATHOD/ASD-Autistic-Spectrum-Disorders--DetectNet.git
+git clone [https://github.com/SHINU4RATHOD/ASD-Autistic-Spectrum-Disorders--DetectNet.git](https://github.com/SHINU4RATHOD/ASD-Autistic-Spectrum-Disorders--Prediction-System.git)
 cd ASD-Autistic-Spectrum-Disorders--DetectNet
 ```
 
