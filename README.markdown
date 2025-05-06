@@ -31,15 +31,15 @@ Follow these steps to set up the project on your local machine.
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/SHINU4RATHOD/ASD-Autistic-Spectrum-Disorders--DetectNet.git](https://github.com/SHINU4RATHOD/ASD-Autistic-Spectrum-Disorders--Prediction-System.git)
-cd ASD-Autistic-Spectrum-Disorders--DetectNet
+cd ASD-Autistic-Spectrum-Disorders--Prediction-System
 ```
 
 ### 2. Set Up the Python Environment
 Create and activate a Conda environment, then install dependencies:
 ```bash
-conda create -n asd_clean python=3.10
+conda create -n asd_clean python=3.10 -y
 conda activate asd_clean
-pip install -r ASD_Prediction/requirements.txt
+pip install -r requirements.txt
 ```
 
 ### 3. Set Up the React Frontend
