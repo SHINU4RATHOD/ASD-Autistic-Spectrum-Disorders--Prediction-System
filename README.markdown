@@ -239,5 +239,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-**Developed by Shinu Rathod**  
-For questions or support, contact [shinu.rathod@example.com](mailto:shinu.rathod@example.com).
+**Developed by SHINU RATHOD**  
+For questions or support, contact [shinu.rathod@example.com](mailto:shinukrathod0143@example.com).
